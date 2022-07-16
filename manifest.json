@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name" : "Hello world",
+    "version" : "1.0",
+    "description" : "A hello world program",
+    "icons":{
+        "128" : "/images/icons128.png",
+        "48" : "/images/icons48.png",
+        "16" : "/images/icons16.png"
+    },
+    "action" : {
+        "deafault_icon" : "/images/icons16.png",
+        "default_popup" : "popup.html"
+    }
+}
